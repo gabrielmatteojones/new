@@ -1,23 +1,23 @@
 title:             "Italia Design Jekyll Theme - by G.Gentili 2018"
 description:       "A theme for Jekyll or GitHub Pages derived from Clean Blog by Start Bootstrap"
 baseurl:           "/"
-url:               "https://ggentili.github.io/Italia-Design-Jekyll-Theme/"
+url:               "https://gabrielmatteojones.github.io/new/"
 author:            "Redazione"
 
 # Header data
-header_parent_title: Nome ente sovraordinato
-header_parent_url: "http://entepubblico-sovraordinato.it"
+header_parent_title: Template Demo
+header_parent_url: "https://forum.italia.it/t/tema-sperimentale-per-jekyll-github-pages/3657/3"
 header_language_selector: false
-header_logo: https://placehold.it/75x80?text=header_logo
-header_title: Nome ente o titolo del sito
-header_subtitle: sottotitolo
-search: true
+header_logo: https://forum.italia.it/uploads/default/optimized/2X/4/41491a2edacfa8385933bacd6563052430963d26_2_180x180.png
+header_title: Sito Demo
+header_subtitle: 
+search: false
 search_full_content: false
-mega_menu: true    # if true, require _data/menu.yml
+mega_menu: false    # if true, require _data/menu.yml
 mega_menu_accedi: false
 
 # Social profiles
-social_block: true
+social_block: false
 social_username: "&commat;Account"    # short
 medium_username: abcuser
 facebook_username: abcuser
@@ -27,7 +27,7 @@ linkedin_username:
 github_username: abcuser
 
 # Footer data
-footer_logo: https://placehold.it/75x80?text=footer_logo
+footer_logo: https://forum.italia.it/uploads/default/optimized/2X/4/41491a2edacfa8385933bacd6563052430963d26_2_180x180.png
 footer_title: Nome ente
 footer_subtitle: sottotitolo
 recapiti1: Recapiti
